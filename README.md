@@ -11,6 +11,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0287-find-the-duplicate-number) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,8 +40,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0001-two-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
