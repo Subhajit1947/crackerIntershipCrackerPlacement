@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0075-sort-colors) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
