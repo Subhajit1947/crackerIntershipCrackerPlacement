@@ -115,6 +115,7 @@
 | [0071-simplify-path](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
@@ -136,6 +137,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0071-simplify-path) |
+| [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -148,4 +150,5 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0012-integer-to-roman) |
+| [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
