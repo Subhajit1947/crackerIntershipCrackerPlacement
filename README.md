@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0055-jump-game) |
@@ -98,6 +99,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0289-game-of-life) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0628-maximum-product-of-three-numbers) |
