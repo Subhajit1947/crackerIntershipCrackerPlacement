@@ -48,6 +48,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0289-game-of-life) |
 ## String
 |  |
@@ -112,6 +114,7 @@
 | [0022-generate-parentheses](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0151-reverse-words-in-a-string) |
@@ -150,5 +153,6 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
