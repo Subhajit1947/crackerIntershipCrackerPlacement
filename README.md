@@ -25,6 +25,7 @@
 | [0289-game-of-life](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
@@ -59,6 +60,7 @@
 | [0075-sort-colors](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,4 +157,5 @@
 | [0012-integer-to-roman](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
