@@ -25,6 +25,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -61,6 +62,7 @@
 | [0075-sort-colors](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0169-majority-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
@@ -160,5 +162,6 @@
 | [0048-rotate-image](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
