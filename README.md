@@ -40,6 +40,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -77,6 +78,7 @@
 | [0001-two-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -164,4 +166,8 @@
 | [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
