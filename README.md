@@ -170,6 +170,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0141-linked-list-cycle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
