@@ -152,6 +152,7 @@
 | [0020-valid-parentheses](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
@@ -187,4 +188,12 @@
 | [0021-merge-two-sorted-lists](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
