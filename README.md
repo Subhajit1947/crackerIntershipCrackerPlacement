@@ -47,6 +47,7 @@
 | [0283-move-zeroes](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0874-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0054-spiral-matrix](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0289-game-of-life) |
+| [0874-backspace-string-compare](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0874-backspace-string-compare) |
 ## Backtracking
 |  |
 | ------- |
@@ -154,6 +157,7 @@
 | [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0874-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
