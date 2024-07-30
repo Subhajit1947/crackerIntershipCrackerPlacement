@@ -42,6 +42,7 @@
 | [0088-merge-sorted-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -80,6 +81,7 @@
 | [0012-integer-to-roman](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -175,6 +177,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
