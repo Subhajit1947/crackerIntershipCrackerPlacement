@@ -26,6 +26,7 @@
 | [0289-game-of-life](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -85,6 +86,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Greedy
@@ -158,6 +160,7 @@
 | [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0874-backspace-string-compare) |
 ## String Matching
 |  |
@@ -203,4 +206,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
