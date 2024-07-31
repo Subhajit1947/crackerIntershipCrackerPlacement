@@ -29,6 +29,7 @@
 | [0496-next-greater-element-i](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0739-daily-temperatures) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
@@ -161,6 +162,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0874-backspace-string-compare) |
 ## String Matching
 |  |
@@ -210,4 +212,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
