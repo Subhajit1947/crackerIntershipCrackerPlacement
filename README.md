@@ -213,4 +213,16 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
