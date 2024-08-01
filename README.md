@@ -219,21 +219,28 @@
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
