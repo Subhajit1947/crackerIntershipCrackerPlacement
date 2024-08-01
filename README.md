@@ -135,6 +135,7 @@
 | [0079-word-search](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0257-binary-tree-paths) |
 | [0680-valid-palindrome-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0874-backspace-string-compare) |
 ## Backtracking
@@ -144,6 +145,7 @@
 | [0046-permutations](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
@@ -227,6 +230,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -235,6 +239,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
