@@ -161,6 +161,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0232-implement-queue-using-stacks) |
@@ -220,6 +221,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
@@ -232,6 +234,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0226-invert-binary-tree) |
@@ -243,6 +246,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
