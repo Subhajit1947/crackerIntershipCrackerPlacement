@@ -227,6 +227,7 @@
 | [0110-balanced-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
@@ -240,6 +241,7 @@
 | [0110-balanced-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
@@ -254,6 +256,7 @@
 | [0110-balanced-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
