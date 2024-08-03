@@ -173,6 +173,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0572-subtree-of-another-tree) |
 ## Trie
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 | [0257-binary-tree-paths](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
@@ -245,6 +247,7 @@
 | [0257-binary-tree-paths](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -260,6 +263,7 @@
 | [0257-binary-tree-paths](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
@@ -275,4 +279,8 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0975-range-sum-of-bst) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
