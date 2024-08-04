@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0289-game-of-life) |
+| [0347-top-k-frequent-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0496-next-greater-element-i) |
@@ -69,6 +70,7 @@
 | [0075-sort-colors](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
@@ -87,6 +89,7 @@
 | [0141-linked-list-cycle](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -152,10 +155,12 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -316,4 +321,16 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0173-binary-search-tree-iterator) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
