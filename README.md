@@ -82,6 +82,7 @@
 | [0055-jump-game](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0264-ugly-number-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0141-linked-list-cycle](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0496-next-greater-element-i) |
@@ -194,6 +196,7 @@
 | [0048-rotate-image](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0227-basic-calculator-ii) |
+| [0264-ugly-number-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0264-ugly-number-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -328,6 +331,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
