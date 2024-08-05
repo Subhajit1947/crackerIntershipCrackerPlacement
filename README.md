@@ -35,6 +35,7 @@
 | [0739-daily-temperatures](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0739-daily-temperatures) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1762-furthest-building-you-can-reach](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0055-jump-game](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0680-valid-palindrome-ii) |
+| [1762-furthest-building-you-can-reach](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -333,6 +335,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/0347-top-k-frequent-elements) |
+| [1762-furthest-building-you-can-reach](https://github.com/Subhajit1947/crackerIntershipCrackerPlacement/tree/master/1762-furthest-building-you-can-reach) |
 ## Bucket Sort
 |  |
 | ------- |
