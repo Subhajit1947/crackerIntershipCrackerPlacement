@@ -4,20 +4,16 @@ class Solution:
     def lenOfLongSubarr (self, arr, n, k) : 
         d={0:-1}
         sum11=0
-        c=0
+        ans=0
         for i in range(len(arr)):
             sum11+=arr[i]
             if sum11-k in d.keys():
-                c=max(c,i-d[sum11-k])
-            if sum11 in d.keys():
-                pass
-            else:
+                ans=max(ans,i-d[sum11-k])
+            if sum11 not in d.keys():
                 d[sum11]=i
-        return c
-                
-      
-            
-        
+        return ans
+    
+
 
 
 #{ 
