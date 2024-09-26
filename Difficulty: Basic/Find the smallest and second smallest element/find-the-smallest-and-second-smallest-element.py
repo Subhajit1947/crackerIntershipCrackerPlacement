@@ -1,16 +1,12 @@
 #User function Template for python3
 class Solution:
     def minAnd2ndMin(self, arr):
-        a=sorted(list(set(arr)))
-        
-        if len(a)<=1:
-            return (-1,-1)
-        if a[0]!=a[1]:
-            return (a[0],a[1])
+        a11=sorted(list(set(arr)))
+        if len(a11)>=2:
+            return a11[0],a11[1]
         else:
-            return (-1,-1)
-        
-        
+            return -1,-1
+       
     
 
 
