@@ -7,10 +7,10 @@ class Solution:
         a=set(nums)
         for i in a:
             d[i]=nums.count(i)
-        s=0
+        ans=0
         for i in d:
-            for j in range(s,s+d[i]):
-                nums[j]=i
-            s+=d[i]
-            
+            for j in range(0,d[i]):
+                nums[ans]=i
+                ans+=1
+
         
