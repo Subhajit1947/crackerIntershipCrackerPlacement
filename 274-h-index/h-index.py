@@ -6,10 +6,9 @@ class Solution:
                 arr[len(citations)]+=1
             else:
                 arr[citations[i]]+=1
-        count=0      
+        count=0
         for i in range(len(arr)-1,-1,-1):
-            if arr[i]+count>=i:
-                # print(i)
-                return i
             count+=arr[i]
+            if i<=count:
+                return i
         
