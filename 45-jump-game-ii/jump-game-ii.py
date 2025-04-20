@@ -5,10 +5,10 @@ class Solution:
         while r<len(nums)-1:
             far=0
             for i in range(l,r+1):
-                far=max(far,nums[i]+i)
+                far=max(far,i+nums[i])
             l=r+1
             r=far
             j+=1
         return j
-        
+
             
